@@ -1,1 +1,1 @@
-# jdrtext
+# Projet JDR Text
