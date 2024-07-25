@@ -83,6 +83,3 @@ Votre ennemi vous inflige {attack_opponent} point de dégats.
             continue
 
     print("-" * 50)
-        
-        
-
